@@ -2,11 +2,13 @@
 One Central, Two Central and The Beacon Makati
 
 
-One Central starts at ₱5.2M: https://bestrealtor.ph/properties/?p=buy&key=One%20Central
 
-Two Central starts at ₱5.5M: https://bestrealtor.ph/properties/?p=buy&key=Two%20Central
+One Central starts at ₱5.2M: https://bestrealtor.ph/units?p=buy&k=One%20Central
 
-The Beacon starts at ₱4.8M: https://bestrealtor.ph/properties/?p=buy&key=Beacon
+Two Central starts at ₱5.5M: https://bestrealtor.ph/units?p=buy&k=Two%20Central
+
+The Beacon starts at ₱4.8M: https://bestrealtor.ph/units?p=buy&k=Beacon
+
 
 
 

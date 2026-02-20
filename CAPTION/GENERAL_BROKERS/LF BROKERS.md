@@ -1,7 +1,10 @@
-🔥 Looking for active BROKERS for residential units in Makati:
-One Central, Two Central, and The Beacon.
+🔥 100% Leasing Commission — Brokers Needed Now 🔥
 
-We offer 100% Leasing Commission until February 28,2026
+We are hiring active brokers to handle residential leasing units in Makati: One Central, Two Central, and The Beacon.
+
+Ready inventory. Fast closings. Direct coordination.
+Register and start closing deals immediately.
+
 
 Message us for details.
 📲 09159338667 (Viber or Telegram)
