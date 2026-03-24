@@ -4,7 +4,25 @@ Great Locations. Strong Investment Value. Don’t Miss Out!
  
 https://bestrealtor.ph/properties/sales
  
+<<<<<<< Updated upstream
  
+=======
+Makati:
+ - The Beacon – 3 units | 1BR from ₱5,000,000
+ - Greenbelt Excelsior – 1 unit | Studio ₱7,000,000
+ - Kroma Tower – 1 unit | 1BR ₱13,500,000
+ - One Central – 8 units | Studio from ₱5,200,000, 1BR ₱6,800,000
+ - Two Central – 10 units | Studio ₱5,500,000, 1BR ₱9,500,000
+
+Muntinlupa:
+ - Rhapsody Residences – 1 unit | 2BR ₱5,200,000
+
+Parañaque:
+ - Azure Urban Resort Residences – 1 unit | 1BR ₱3,500,000
+
+Tagaytay:
+ - St. Andrews [Tagaytay Highlands] – 1 unit | 1BR ₱9,500,000
+>>>>>>> Stashed changes
 
 ✅ Fully Furnished 
 ✅ Move-In Ready 
